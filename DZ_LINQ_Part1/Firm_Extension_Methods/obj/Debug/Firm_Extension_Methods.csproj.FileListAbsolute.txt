@@ -1,0 +1,6 @@
+D:\С#\DZ_LINQ_Part1\Firm_Extension_Methods\bin\Debug\FirmExtensionMethods.exe
+D:\С#\DZ_LINQ_Part1\Firm_Extension_Methods\bin\Debug\FirmExtensionMethods.pdb
+D:\С#\DZ_LINQ_Part1\Firm_Extension_Methods\obj\Debug\Firm_Extension_Methods.csproj.AssemblyReference.cache
+D:\С#\DZ_LINQ_Part1\Firm_Extension_Methods\obj\Debug\Firm_Extension_Methods.csproj.CoreCompileInputs.cache
+D:\С#\DZ_LINQ_Part1\Firm_Extension_Methods\obj\Debug\FirmExtensionMethods.exe
+D:\С#\DZ_LINQ_Part1\Firm_Extension_Methods\obj\Debug\FirmExtensionMethods.pdb

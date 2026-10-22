@@ -1,0 +1,28 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Firm Query Syntax", "Firm_Query_Syntax\Firm_Query_Syntax.csproj", "{161DD2CD-BD2A-4B5C-B6D4-85B0AD4AE72B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Firm Extension Methods", "Firm_Extension_Methods\Firm_Extension_Methods.csproj", "{3A2A5B86-28B6-457E-A5D2-98699A85EAF0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Firm Employees", "Firm_Employees\Firm_Employees.csproj", "{BD00E57B-2696-4C52-BD8F-14DAA047D4DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Digit Sum Sort", "Digit_Sum_Sort\Digit_Sum_Sort.csproj", "{C432F7B9-109B-417E-9719-96B332C6558D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{161DD2CD-BD2A-4B5C-B6D4-85B0AD4AE72B}.Debug|Any CPU.ActiveCfg = Debug|AnyCPU
+		{161DD2CD-BD2A-4B5C-B6D4-85B0AD4AE72B}.Debug|Any CPU.Build.0 = Debug|AnyCPU
+		{3A2A5B86-28B6-457E-A5D2-98699A85EAF0}.Debug|Any CPU.ActiveCfg = Debug|AnyCPU
+		{3A2A5B86-28B6-457E-A5D2-98699A85EAF0}.Debug|Any CPU.Build.0 = Debug|AnyCPU
+		{BD00E57B-2696-4C52-BD8F-14DAA047D4DD}.Debug|Any CPU.ActiveCfg = Debug|AnyCPU
+		{BD00E57B-2696-4C52-BD8F-14DAA047D4DD}.Debug|Any CPU.Build.0 = Debug|AnyCPU
+		{C432F7B9-109B-417E-9719-96B332C6558D}.Debug|Any CPU.ActiveCfg = Debug|AnyCPU
+		{C432F7B9-109B-417E-9719-96B332C6558D}.Debug|Any CPU.Build.0 = Debug|AnyCPU
+	EndGlobalSection
+EndGlobal

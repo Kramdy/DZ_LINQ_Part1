@@ -1,0 +1,6 @@
+D:\С#\DZ_LINQ_Part1\Firm_Employees\bin\Debug\FirmEmployees.exe
+D:\С#\DZ_LINQ_Part1\Firm_Employees\bin\Debug\FirmEmployees.pdb
+D:\С#\DZ_LINQ_Part1\Firm_Employees\obj\Debug\Firm_Employees.csproj.AssemblyReference.cache
+D:\С#\DZ_LINQ_Part1\Firm_Employees\obj\Debug\Firm_Employees.csproj.CoreCompileInputs.cache
+D:\С#\DZ_LINQ_Part1\Firm_Employees\obj\Debug\FirmEmployees.exe
+D:\С#\DZ_LINQ_Part1\Firm_Employees\obj\Debug\FirmEmployees.pdb

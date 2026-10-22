@@ -1,0 +1,6 @@
+D:\С#\DZ_LINQ_Part1\Firm_Query_Syntax\bin\Debug\FirmQuerySyntax.exe
+D:\С#\DZ_LINQ_Part1\Firm_Query_Syntax\bin\Debug\FirmQuerySyntax.pdb
+D:\С#\DZ_LINQ_Part1\Firm_Query_Syntax\obj\Debug\Firm_Query_Syntax.csproj.AssemblyReference.cache
+D:\С#\DZ_LINQ_Part1\Firm_Query_Syntax\obj\Debug\Firm_Query_Syntax.csproj.CoreCompileInputs.cache
+D:\С#\DZ_LINQ_Part1\Firm_Query_Syntax\obj\Debug\FirmQuerySyntax.exe
+D:\С#\DZ_LINQ_Part1\Firm_Query_Syntax\obj\Debug\FirmQuerySyntax.pdb

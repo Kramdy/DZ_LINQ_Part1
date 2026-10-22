@@ -1,0 +1,6 @@
+D:\С#\DZ_LINQ_Part1\Digit_Sum_Sort\bin\Debug\DigitSumSort.exe
+D:\С#\DZ_LINQ_Part1\Digit_Sum_Sort\bin\Debug\DigitSumSort.pdb
+D:\С#\DZ_LINQ_Part1\Digit_Sum_Sort\obj\Debug\Digit_Sum_Sort.csproj.AssemblyReference.cache
+D:\С#\DZ_LINQ_Part1\Digit_Sum_Sort\obj\Debug\Digit_Sum_Sort.csproj.CoreCompileInputs.cache
+D:\С#\DZ_LINQ_Part1\Digit_Sum_Sort\obj\Debug\DigitSumSort.exe
+D:\С#\DZ_LINQ_Part1\Digit_Sum_Sort\obj\Debug\DigitSumSort.pdb
